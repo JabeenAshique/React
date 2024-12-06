@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React 01",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "JabeenAshique"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "npx"
+  ],
+  "author": "JabeenAshique",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.13.2"
+  }
+}
